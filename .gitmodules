@@ -17,3 +17,8 @@
 	path = acsone/odoo-autodiscover
 	url = git@github.com:acsone/odoo-autodiscover.git
 	branch = master
+
+[submodule "zaidkilani/royalline-addons"]
+	path = zaidkilani/royalline-addons
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = master
