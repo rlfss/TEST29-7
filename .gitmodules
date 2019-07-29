@@ -12,3 +12,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 12.0
+
+[submodule "acsone/odoo-autodiscover"]
+	path = acsone/odoo-autodiscover
+	url = git@github.com:acsone/odoo-autodiscover.git
+	branch = master
