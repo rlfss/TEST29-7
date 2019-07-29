@@ -17,3 +17,8 @@
 	path = acsone/odoo-autodiscover
 	url = git@github.com:acsone/odoo-autodiscover.git
 	branch = master
+
+[submodule "acsone/setuptools-odoo"]
+	path = acsone/setuptools-odoo
+	url = git@github.com:acsone/setuptools-odoo.git
+	branch = master
